@@ -7,5 +7,5 @@ Brief Bio
 
 Application form
 
-![Bio](https://github.com/WendyOkoli/AltSchool-Assignment-1/blob/main/image/Application%20page.png)
+![Bio](https://github.com/WendyOkoli/AltSchool-Assignment-1/blob/main/image/Application%20form.png)
 
